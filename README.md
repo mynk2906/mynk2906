@@ -10,7 +10,7 @@
 Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a good grasp on core Java concepts. Self-motivated with a strong problem-solving mindset, interested in building user-centric & scalable products. Looking forward to joining a progressive organization to work on some interesting ideas.
 </div>
     <div>
-        <img align="center" alt="Coding" heigh="50" width="50%" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966)" style="max-width: 100%>    
+       <!-- <img align="center" alt="Coding" heigh="50" width="50%" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" style="max-width: 100%>   -->
      
         
 </div>
@@ -21,7 +21,7 @@ Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a 
 ---
 
 <div>
-    <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
+    <img align="right" alt="Coding" height="270" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 </div>
 
 ### :woman_technologist: About Me :
