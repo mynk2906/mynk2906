@@ -10,7 +10,9 @@
 Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a good grasp on core Java concepts. Self-motivated with a strong problem-solving mindset, interested in building user-centric & scalable products. Looking forward to joining a progressive organization to work on some interesting ideas.
 </div>
     <div>
-    <img align="center" alt="Coding" heigh="50" width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%>
+        <img align="center" alt="Coding" heigh="50" width="50%" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966)" style="max-width: 100%>    
+     
+        
 </div>
 </div>
                                                                                                                                                    
@@ -59,10 +61,10 @@ Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a 
 ---
 ### :fire: My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rupesh8844&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Rupesh8844" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshitmax2022&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Harshitmax2022"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mynk2906&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="mynk2906" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mynk2906&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="mynk2906"/></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mynk2906&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mynk2906&theme=dark&background=000000)](https://github.com/mynk2906)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=mynk2906&theme=xcode">
 
