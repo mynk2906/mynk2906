@@ -21,7 +21,7 @@ Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a 
 ---
 
 <div>
-    <img align="right" alt="Coding" height="270" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
+    <img align="right" alt="Coding" height="250" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 </div>
 
 ### :woman_technologist: About Me :
