@@ -25,6 +25,7 @@ Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a 
 </div>
 
 ### :woman_technologist: About Me :
+I am Java Developer
  
 - 🌱 I’m currently learning **Spring Boot, Hibernate,Mysql ,aws**
 
